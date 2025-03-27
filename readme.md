@@ -2,9 +2,7 @@
 
 # 🐋 Docker Cheat Sheet 🚀  
 
-<div style="color: #2E86C1; background-color: #EBF5FB; padding: 10px; border-radius: 5px; margin-bottom: 15px;">
-<strong>🚀 Basic Container Commands</strong>
-</div> 
+## 🚀 Basic Container Commands
 
 | Command | Description |
 |---------|-------------|
@@ -19,9 +17,7 @@
 
 ---
 
-<div style="color: #28B463; background-color: #EAFAF1; padding: 10px; border-radius: 5px; margin: 15px 0;">
-<strong>📦 Image Management</strong>
-</div> 
+## 📦 Image Management
 
 | Command | Description |
 |---------|-------------|
@@ -33,9 +29,7 @@
 
 ---
 
-<div style="color:rgb(99, 124, 214); background-color:rgb(234, 249, 250); padding: 10px; border-radius: 5px; margin: 15px 0;">
-<strong>🏃Running Containers </strong>
-</div>
+## 🏃Running Containers
 
 | Command | Description |
 |---------|-------------|
@@ -47,9 +41,7 @@
 
 ---
 
-<div style="color:rgb(99, 124, 214); background-color:rgb(247, 234, 250); padding: 10px; border-radius: 5px; margin: 15px 0;">
-<strong>📂 4. Volumes & Storage </strong>
-</div>
+## 📂 4. Volumes & Storage
 
 | Command | Description |
 |---------|-------------|
@@ -61,9 +53,7 @@
 
 ---
 
-<div style="color:rgb(99, 124, 214); background-color:rgb(246, 250, 234); padding: 10px; border-radius: 5px; margin: 15px 0;">
-<strong>🌐 5. Networking </strong>
-</div>
+## 🌐 5. Networking
 
 | Command | Description |
 |---------|-------------|
@@ -75,9 +65,7 @@
 
 ---
 
-<div style="color:rgb(99, 124, 214); background-color:rgb(250, 242, 234); padding: 10px; border-radius: 5px; margin: 15px 0;">
-<strong>📝 6. Docker Compose </strong>
-</div>
+## 📝 6. Docker Compose
 
 | Command | Description |
 |---------|-------------|
@@ -89,9 +77,7 @@
 ---
 
 
-<div style="color:rgb(99, 124, 214); background-color:rgb(246, 250, 234); padding: 10px; border-radius: 5px; margin: 15px 0;">
-<strong>🔍 7. Debugging & Monitoring </strong>
-</div>
+## 🔍 7. Debugging & Monitoring 
 
 | Command | Description |
 |---------|-------------|
@@ -103,9 +89,7 @@
 
 ---
 
-<div style="color:rgb(99, 124, 214); background-color:rgb(250, 234, 234); padding: 10px; border-radius: 5px; margin: 15px 0;">
-<strong>🔥 8. Cleaning Up </strong>
-</div>
+## 🔥 8. Cleaning Up 
 
 | Command | Description |
 |---------|-------------|
